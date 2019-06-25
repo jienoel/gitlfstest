@@ -1,0 +1,53 @@
+OpConfig = {
+	[10001] = {
+		restype = 0,
+		size = {
+			100,
+			100
+		},
+		respath = "Map/Prefab/Sphere",
+		name = "",
+	},
+	[1002] = {},
+	
+}
+
+size
+int/float/uint64/int64
+1000
+
+size = 1000
+
+size
+bool
+true(全部小写)
+size = true
+
+size
+string
+hehe
+size = "hehe"
+
+
+size
+dic[string,int,bool]
+100,100,false
+ 
+size = {
+	 "100",
+	 100,
+	false
+}
+
+
+中文描述
+size 
+int[]
+
+100,100,1000
+size = {
+	100,
+	100,
+	1000
+}
+
